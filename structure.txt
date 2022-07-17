@@ -1,0 +1,8 @@
+Steps Are Divide into parts
+ - For First, Compile Flutter Simple Widgets into HTML with inline style;
+
+Run
+    - flutter2react .
+    - Then Mkdir reactjs
+    - reactjs/components # Append Reactjs Code here. This will be cobined with flutter2react output and move to release folder
+    - reactjs/release Final Output is Here.
